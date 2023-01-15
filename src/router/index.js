@@ -132,10 +132,10 @@ const router = createRouter({
     },
 
     { 
-			path: '/github',
-			beforeEnter() {location.href = 'http://github.com/RifkyPutraRamadhan'},
-			component: github
-		}
+       path: '/github',
+       beforeEnter() {location.href = 'http://github.com/RifkyPutraRamadhan'},
+       component: github
+     },
   ],
 });
 
