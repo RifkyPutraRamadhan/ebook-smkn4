@@ -1,4 +1,6 @@
 <template>
+  <br>
+  <br>
   <div align="center">
     <footer class="footer mt-5">
         <div class="text-center text-white p-3" style="background-color: #1B1E23" >
