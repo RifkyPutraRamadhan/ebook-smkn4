@@ -161,31 +161,70 @@ h6 {
 .b-tbsm {
   background-image: url(assets/tbsm.jpg);
   background-size: 100%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-position: 50%;
+  display:block; 
+  height: auto;
+  filter: brightness(70%);
+  user-select: none;
+  background-color: transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
 .b-rpl {
   background-image: url(assets/pplg.jpg);
   background-size: 100%;
-  background-attachment: fixed;
+  background-position: 50%;
+  display:block; 
+  height: auto;
+  filter: brightness(70%);
+  user-select: none;
+  background-color: transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
 .b-tjkt {
   background-image: url(assets/tjkt.jpg);
   background-size: 100%;
-  background-attachment: fixed;
+  background-position: 50%;
+  display:block; 
+  height: auto;
+  filter: brightness(70%);
+  user-select: none;
+  background-color: transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
 .b-dkv {
   background-image: url(assets/dkv.jpg);
   background-size: 100%;
-  background-attachment: fixed;
+  background-position: 50%;
+  display:block; 
+  height: auto;
+  filter: brightness(70%);
+  user-select: none;
+  background-color: transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
 .b-toi {
   background-image: url(assets/toi.jpg);
   background-size: 100%;
-  background-attachment: fixed;
+  background-position: 50%;
+  display:block; 
+  height: auto;
+  filter: brightness(70%);
+  user-select: none;
+  background-color: transparent;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 </style>
