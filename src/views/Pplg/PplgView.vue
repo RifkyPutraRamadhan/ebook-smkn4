@@ -1,5 +1,6 @@
 <template>
-  <div><Pplg />
+  <div>
+    <Pplg />
   </div>
 </template>
 
