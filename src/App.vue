@@ -159,12 +159,11 @@ h6 {
 }
 
 .b-tbsm {
-  background-image: url(assets/tbsm.jpg);
+  background-image: url(assets/tbsm.png);
   background-size: 100%;
   background-position: 50%;
   display:block; 
   height: auto;
-  filter: brightness(70%);
   user-select: none;
   background-color: transparent;
   padding: 0.375rem 0.75rem;
@@ -173,12 +172,11 @@ h6 {
 }
 
 .b-rpl {
-  background-image: url(assets/pplg.jpg);
+  background-image: url(assets/pplg.png);
   background-size: 100%;
   background-position: 50%;
   display:block; 
   height: auto;
-  filter: brightness(70%);
   user-select: none;
   background-color: transparent;
   padding: 0.375rem 0.75rem;
@@ -187,12 +185,11 @@ h6 {
 }
 
 .b-tjkt {
-  background-image: url(assets/tjkt.jpg);
+  background-image: url(assets/tjkt.png);
   background-size: 100%;
   background-position: 50%;
   display:block; 
   height: auto;
-  filter: brightness(70%);
   user-select: none;
   background-color: transparent;
   padding: 0.375rem 0.75rem;
@@ -201,12 +198,11 @@ h6 {
 }
 
 .b-dkv {
-  background-image: url(assets/dkv.jpg);
+  background-image: url(assets/dkv.png);
   background-size: 100%;
   background-position: 50%;
   display:block; 
   height: auto;
-  filter: brightness(70%);
   user-select: none;
   background-color: transparent;
   padding: 0.375rem 0.75rem;
@@ -215,12 +211,11 @@ h6 {
 }
 
 .b-toi {
-  background-image: url(assets/toi.jpg);
+  background-image: url(assets/toi.png);
   background-size: 100%;
   background-position: 50%;
   display:block; 
   height: auto;
-  filter: brightness(70%);
   user-select: none;
   background-color: transparent;
   padding: 0.375rem 0.75rem;
