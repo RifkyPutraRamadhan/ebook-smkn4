@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h2 class="text-center text-dark fw-bold uppercase">
-      Teknik dan bisnis sepeda motor
+      TEKNIK DAN BISNIS SEPEDA MOTOR
     </h2>
     <h5 class="text-center text-dark fw-semibold">
       Silahkan Pilih Kelas Kalian Masing-Masing !
