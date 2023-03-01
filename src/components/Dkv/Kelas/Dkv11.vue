@@ -3,6 +3,7 @@
     <div class="row">
       <div class="col-md-12">
         <h3 class="mb3">DKV - Kelas 11</h3>
+        <div class="card-body table-responsive p-0">
         <table class="table table-bordered table-striped">
           <thead>
             <tr align="center">
@@ -108,6 +109,7 @@
              </tr>
           </tbody>
           </table>
+          </div>
           </div>
           </div>
           </div>
